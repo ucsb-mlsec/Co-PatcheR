@@ -1,0 +1,16 @@
+anthropic>=0.49.0
+openai>=1.70.0
+tiktoken>=0.7.0
+litellm>=1.63.6
+datasets>=2.20.0
+transformers>=4.51.3
+torch>=2.5.1
+numpy>=1.26.4
+pandas>=2.2.2
+libcst>=1.4.0
+unidiff>=0.7.5
+fuzzysearch>=0.7.3
+tqdm>=4.66.4
+filelock>=3.17.0
+docker>=7.1.0
+pytest>=8.3.4 
